@@ -1,4 +1,4 @@
-<img align="center" alt="Software Engineering" height="400" width="850" style="border-radius:50px;" src="https://media1.tenor.com/m/nkYsPDoADwgAAAAd/computer-pixel-art.gi">
+<img align="center" alt="Software Engineering" height="400" width="1050" style="border-radius:50px;" src="https://media1.tenor.com/m/JwRNTvlcBF4AAAAd/mario-super-mario.gif">
 
 ### Hi there, I'm Mayara Petti 👋 
 
