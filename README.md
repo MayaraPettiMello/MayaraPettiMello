@@ -1,4 +1,4 @@
-Hi there, I'm Mayara Petti 👋 <img src="https://tenor.com/pt-BR/view/pixel-art-computer-rain-rainy-day-raining-gif-5289544000101100841" width="55">
+Hi there, I'm Mayara Petti 👋 <img src="https://tenor.com/pt-BR/view/computer-pixel-art-monitors-computer-set-up-blinking-cursor-gif-17153742" width="55">
 
 💻 **Software Engineer | Front-End Engineering | AI Engineering**
 
