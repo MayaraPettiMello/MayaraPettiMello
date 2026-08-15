@@ -1,5 +1,5 @@
 
-### Hi there, I'm Mayara Petti 👋 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="55">
+### Hi there, I'm Mayara Petti 👋 
 
 💻 **Software Engineer | Front-End Engineering | AI Engineering**
 
