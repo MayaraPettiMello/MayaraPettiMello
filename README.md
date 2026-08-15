@@ -1,6 +1,3 @@
-<img align="center" alt="Software Engineering" height="400" width="850" style="border-radius:50px;" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
-
-##
 
 ### Hi there, I'm Mayara Petti 👋 <img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="55">
 
