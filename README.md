@@ -1,4 +1,6 @@
-Hi there, I'm Mayara Petti 👋 <img src="https://tenor.com/pt-BR/view/computer-pixel-art-monitors-computer-set-up-blinking-cursor-gif-17153742" width="55">
+<img align="center" alt="Software Engineering" height="400" width="850" style="border-radius:50px;" src="https://media1.tenor.com/m/nkYsPDoADwgAAAAd/computer-pixel-art.gi">
+
+### Hi there, I'm Mayara Petti 👋 
 
 💻 **Software Engineer | Front-End Engineering | AI Engineering**
 
