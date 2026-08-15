@@ -1,6 +1,8 @@
 <img align="center" alt="Software Engineering" height="400" width="1050" style="border-radius:50px;" src="https://media1.tenor.com/m/JwRNTvlcBF4AAAAd/mario-super-mario.gif">
 
-### Hi there, I'm Mayara Petti 👋 
+
+
+### Hi there, I'm Mayara Petti<img src="https://media.tenor.com/ndeNF_y9m2QAAAAj/fire-flower-super-mario-world.gif" width="45">
 
 💻 **Software Engineer | Front-End Engineering | AI Engineering**
 
@@ -28,42 +30,19 @@
 <img align="center" alt="CSS3" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Tailwind CSS" height="35" width="45" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
 <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-</div>
-
-##
-
-### 🎨 Design Systems & Quality
-
-<div style="display: inline_block"><br>
-
 <img align="center" alt="Storybook" height="35" width="45" src="https://cdn.worldvectorlogo.com/logos/storybook-1.svg">
 <img align="center" alt="Vitest" height="35" width="45" src="https://vitest.dev/logo.svg">
 <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img align="center" alt="GitHub" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" alt="Azure DevOps" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
 
+
 </div>
 
 ##
 
-### 🤖 AI Engineering
 
-I work with modern AI technologies applied to software engineering and developer productivity:
-
-* 🧠 **Generative AI & Large Language Models**
-* 🤖 **AI Agents & Agentic Systems**
-* 💬 **Prompt Engineering**
-* 🔗 **Model Context Protocol (MCP)**
-* 🛠️ **AI-powered Software Engineering**
-* 🔍 Context orchestration, prompt routing and AI-assisted analysis
-* 🚦 Human-in-the-loop workflows and validation gates
-
-**Tools & Models**
-
-`OpenAI / GPT` · `Claude` · `Gemini` · `GitHub Copilot` · `Claude Code` · `LLM Studio` · `MCP`
-
-##
+</div>
 
 ### 💼 What I work with
 
@@ -90,29 +69,16 @@ I work with modern AI technologies applied to software engineering and developer
 
 ##
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/FernandaMorenoPetti">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FernandaMorenoPetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaMorenoPetti&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-
-</div>
-
-##
-
 ### 🌐 Connect with me
+
 
 <div>
 
+<p align="left">
+
 <a href="https://www.linkedin.com/in/mayara-petti-572438221/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mayara%20Petti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="mailto:mayarapetti@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-mayarapetti%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
-</a>
-
+</p>
 </div>
