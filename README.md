@@ -1,6 +1,4 @@
-<img align="center" alt="Software Engineering" height="400" width="850" style="border-radius:50px;" src="https://tenor.com/pt-BR/view/pixel-art-computer-rain-rainy-day-raining-gif-5289544000101100841">
-
-### Hi there, I'm Mayara Petti 👋 
+Hi there, I'm Mayara Petti 👋 <img src="https://tenor.com/pt-BR/view/pixel-art-computer-rain-rainy-day-raining-gif-5289544000101100841" width="55">
 
 💻 **Software Engineer | Front-End Engineering | AI Engineering**
 
