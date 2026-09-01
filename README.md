@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I'm Mayara Petti<img src="https://media.tenor.com/ndeNF_y9m2QAAAAj/fire-flower-super-mario-world.gif" width="45">
+### Hi there, I'm Mayara Petti de Mello<img src="https://media.tenor.com/ndeNF_y9m2QAAAAj/fire-flower-super-mario-world.gif" width="45">
 
 💻 **Software Engineer | Front-End Engineering | AI Engineering**
 
